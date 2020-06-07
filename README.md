@@ -98,9 +98,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav nav-list fr">
-                <li class="active"><a title="Home" class="btn btn-default" href="https://fbdownloader.net">Home</a></li>
-                <li><a title="Private Video Downlaoder" class="btn btn-default" href="https://fbdownloader.net/private-facebook-downloader/">Private Video Downloader</a></li>
-                <li><a title="Contact" class="btn btn-default" href="https://fbdownloader.net/contact/">Contact</a></li>
+                <li class="active"><a title="Home" class="btn btn-default" href="https://facebook-download.github.io/Facebook-/">Home</a></li>
+                <li><a title="Private Video Downlaoder" class="btn btn-default" href="https://facebook-download.github.io/Facebook/">Private Video Downloader</a></li>
+                <li><a title="Contact" class="btn btn-default" href="https://facebook-download.github.io/Contact/">Contact</a></li>
             </ul>
         </div><!--/.nav-collapse -->
         <a id="bookmarklet" class="absolute bookmark btn btn-default" href="javascript:var title = window.location.href; if (title.indexOf('https://fbdownloader.net') == 0) { (function(){ void(0); })(); }else { (function(){ window.open('https://fbdownloader.net/download/?url=' + location.href  + '?src=bookmarklet')}()); }" title="FBDownloader Bookmarklet"><span class="fa fa-bookmark"></span>&nbsp;&nbsp;bookmark</a>
@@ -157,7 +157,7 @@
     <div class="container">
         <div class="col-md-12 primary-footer page-footer">
             <p class="copyright">Copyright &copy; 2020 - fbdownloader.net<br/>
-                <a title="Terms and Conditions" href="https://fbdownloader.net/terms/">Terms & Conditions</a> - <a title="Privacy Policy" href="https://fbdownloader.net/privacy/">Privacy Policy</a> - <a title="About" href="https://fbdownloader.net/about/">About</a> -
+                <a title="Terms and Conditions" href="https://facebook-download.github.io/Facebook/">Terms & Conditions</a> - <a title="Privacy Policy" href="https://facebook-download.github.io/Facebook/">Privacy Policy</a> - <a title="About" href="https://fbdownloader.net/about/">About</a> -
                 <a title="Twitter Video Downloader" href="https://twoffline.net">Twitter Video Downloader</a> - <a href="https://fbdownloader.net">Facebook Downloader</a> - <a rel='nofollow' target="_blank" href="https://fancyfonts.co/facebook-text-generator/">Facebook Text</a>
                                             </p>
         </div>
